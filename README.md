@@ -1,2 +1,0 @@
-# nducan.github.io
-web
