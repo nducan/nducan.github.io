@@ -4762,7 +4762,8 @@ section.lazy-placeholder:after {
 .cid-ryg01U2tPo {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
+  /* background-color: #000000; */
+  background-color: #eeeeee;
 }
 @media (max-width: 767px) {
   .cid-ryg01U2tPo .mbr-text {
