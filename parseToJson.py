@@ -21,7 +21,7 @@ for row in sheet.iter_rows(min_row=2, values_only=True):  # Assuming the header 
     record['AFFILIATION'] = row[1]
     record['POSITION'] = row[2]
     record['MAJOR'] = row[3]
-    record['LINK'] = row[4]
+    record['CONTACT LINK'] = row[4]
     data.append(record)
 
 # Convert the data list to JSON format

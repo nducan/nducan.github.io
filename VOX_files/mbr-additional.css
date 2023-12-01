@@ -4762,7 +4762,6 @@ section.lazy-placeholder:after {
 .cid-ryg01U2tPo {
   padding-top: 0px;
   padding-bottom: 0px;
-  /* background-color: #000000; */
   background-color: #eeeeee;
 }
 @media (max-width: 767px) {
@@ -5177,6 +5176,7 @@ section.lazy-placeholder:after {
   background-color: #000000;
   color: white;
   vertical-align: middle;
+  font-weight: 200;
 }
 .cid-rEuQfRZ893 table td {
   padding: 1.2rem 1.6rem;
